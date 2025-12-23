@@ -1,5 +1,5 @@
 # Проверка гипотезы в сервисе чтения и прослушивания книг Яндекс.Книги
-[HTML] [ipynb](https://github.com/nina-moise/Portfolio/blob/main/Yandex%20Books%20A-B-Test/Yandex%20Books.ipynb)
+[HTML](https://github.com/nina-moise/Portfolio/blob/main/Yandex%20Books%20A-B-Test/Yandeks%20Books.html) [ipynb](https://github.com/nina-moise/Portfolio/blob/main/Yandex%20Books%20A-B-Test/Yandeks%20Books.ipynb)
 ## Описание проекта
 Сервис **Яндекс.Книги** позволяет читать и прослушивать аудиоконтент за ежемесячную подписку. Команда сервиса Яндекс Книги изучила данные, полученные при анализе LTV, и предположила, что пользователи, которые приносят больший LTV, являются более лояльными, т.е. проводят в среднем больше времени за чтением и прослушиванием книг в приложении. **Предлагается сравнить пользователей из Санкт-Петербурга и Москвы.**
 
